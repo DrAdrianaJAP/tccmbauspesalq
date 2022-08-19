@@ -23,10 +23,6 @@
 *.ilg
 *.ind
 
-*.csv
-*.xlsx
-*.parquet
-
 # image files
 *.png
 *.jpeg
@@ -41,3 +37,7 @@
 
 # But not these files.
 !.pdf
+!.csv
+!.xlsx
+!.parquet
+!.docx
